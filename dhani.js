@@ -531,32 +531,24 @@ case 'diamondfreefire':
 gambar = fs.readFileSync('./media/qr.jpg')
 menunya = `*「 DIAMOND FREEFIRE 」*
 
-• *12 DIAMOND = 2.000*
-• *20 DIAMOND = 3.000*
-• *50 DIAMOND = 7.000*
-• *70 DIAMOND = 10.000*
-• *100 DIAMOND = 14.000*
-• *140 DIAMOND = 19.000*
-• *150 DIAMOND = 20.000*
-• *210 DIAMOND = 28.000*
-• *280 DIAMOND = 37.000*
-• *355 DIAMOND = 47.000*
-• *425 DIAMOND = 56.000*
-• *500 DIAMOND = 65.000*
-• *635 DIAMOND = 83.000*
-• *720 DIAMOND = 92.000*
-• *1.075 DIAMOND = 138.000*
-• *2.000 DIAMOND = 251.000*
-• *3.440 DIAMOND = 434.000*
-• *4.000 DIAMOND = 500.000*
-• *6.000 DIAMOND = 750.000*
-• *7.290 DIAMOND = 918.000*
-• *8.010 DIAMOND = 1.167.600*
+*LIST DM FF VIA ID*
 
-*「 Member Ship 」*
+• *☞5 💎 Rp 1.000*
+• *☞20 💎 Rp 3.000*
+• *☞50 💎 Rp 6.000*
+• *☞70 💎 Rp 8.000*
+• *☞100 💎 Rp 12.000*
+• *☞140 💎 Rp 17.000*
+• *☞210 💎 Rp 25.000*
+• *☞355 💎 Rp 44.000*
+• *☞500 💎 Rp 60.000*
+• *☞720 💎 Rp 87.000*
+• *☞1000 💎 Rp 120.000*
+• *☞2000 💎 Rp 240.000*
 
-• *MM = Rp 29.000*
-• *MB = Rp 140.000*`
+• *☞MM Rp 26.000*
+• *☞MB Rp 130.000*
+• *MB + MM Rp 160.000*`
 teks =
 `「 ${botname} 」\n*${tanggal}*`
 but = [
@@ -569,30 +561,25 @@ break
 case 'dmml':
 case 'diamondmobilelegend':
 gambar = fs.readFileSync('./media/qr.jpg')
-menunya = `*「 DIAMOND MOBA 」*
+menunya = `*「 MLBB DIAMONDS 」*
 
-• *5 DIAMOND = 2.000*
-• *12 DIAMOND = 4.000*
-• *19 DIAMOND = 6.000*
-• *28 DIAMOND = 9.000*
-• *36 DIAMOND = 11.000*
-• *86 DIAMOND = 21.000*
-• *172 DIAMOND = 41.000*
-• *257 DIAMOND = 61.000*
-• *343 DIAMOND = 81.000*
-• *429 DIAMOND = 102.000*
-• *514 DIAMOND = 122.000*
-• *600 DIAMOND = 142.000*
-• *706 DIAMOND = 163.000*
-• *878 DIAMOND = 204.000*
-• *963 DIAMOND = 224.000*
-• *1.049 DIAMOND = 244.000*
+• *➝86💎	Rp19.000*
+• *➝172💎	Rp38.000*
+• *➝257💎	Rp58.000*
+• *➝344💎	Rp75.000*
+• *➝429💎	Rp93.000*
+• *➝514💎	Rp112.000*
+• *➝600💎	Rp131.000*
+• *➝706💎	Rp149.000*
+• *➝878💎	Rp185.000*
+• *➝963💎	Rp204.000*
+• *➝1412💎 Rp295.000*
+• *➝2195💎	Rp434.000*
+• *➝3688💎	Rp727.000*
+• *➝4394💎 Rp878.000*
 
-*「 Starlight Member 」*
-
-• *SM = 134.000*
-• *TP = 134.000*
-• *SMP = 305.000*`
+• *➝SL/TW	Rp124.000*
+• *➝SL PLUS	Rp280.000*`
 teks =
 `「 ${botname} 」\n*${tanggal}*`
 but = [
@@ -735,10 +722,10 @@ case 'payment':
 gambar = fs.readFileSync('./media/qr.jpg')
 menunya = `*「 PAYMENT 」*
 
-• *Gopay : ${gopay}*
-• *Dana : ${dana}*
-• *Ovo : ${ovo}*
-• *Pulsa : ${pulsa}*
+• *Gopay : 085257008407*
+• *Dana : 081217252309*
+• *Ovo : 081217252309*
+• *Pulsa : 081217252209*
 • *Scan Qris Di Atas !!*`
 teks =
 `「 ${botname} 」\n*${tanggal}*`
